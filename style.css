@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+	padding: 0;
+    background-image: url('https://th.bing.com/th/id/R.39f07883682cec0ecf3d11da8a621d68?rik=ux3uAfuWmKT3uA&riu=http%3a%2f%2fs1.picswalls.com%2fwallpapers%2f2016%2f06%2f06%2fbeach-wallpaper-hd_090611599_305.jpg&ehk=guCj8ENN5Fa7juKQxvJ9apiwsw5Hl3gpeaukXX4fi3M%3d&risl=&pid=ImgRaw&r=0');
+    background-repeat: no-repeat ;
+    background-size: cover;
+
+
+}
+.main {
+	width: 100%;
+    background-color: /*rgba(0, 0, 0, 0.9)*/;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;   	
+
+}
+button {
+margin-left: 100px;
+margin-right: 30px;
+width: 100px;
+border-radius: 10px;
+border:1px solid #fff;
+padding: 12px 10px;
+float: right;
+display: inline-block;
+line-height: 120%;
+background-color: transparent;
+}
+
+input{
+border: 1px solid #fff;    
+border-radius: 5px;
+padding: 12px 10px;
+background-color: transparent;
+width: 100%;
+text-align: center;
+margin-right: 10PX;
+}
+
+button:hover{
+    background-color: lightgrey;
+ }
